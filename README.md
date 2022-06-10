@@ -16,7 +16,6 @@ habilidades de desenvolvimento tanto habilidades técnicas e de gestão e proces
 
 ## Como executar
 
-
 ## Como contribuir
 
 Para contribuir voce pode abrir ou comentar uma ISSUE fazendo uma sugestão de alteração, correção, atualização e melhorias para o projeto.
@@ -27,30 +26,32 @@ Caso queira contribuir diretamente na construção do código, você pode fazer 
 
 DESENVOLVEDORES DA COMUNIDADE:
 
-<table align="center">
+<table>
 <tr>
-<th><a href="https://github.com/aldair-meneses"><img src="https://avatars.githubusercontent.com/u/81881279?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/edpittol"><img src="https://avatars.githubusercontent.com/u/352790?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/JoaoPedro-Sampaio"><img src="https://avatars.githubusercontent.com/u/87131266?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/marcosvile"><img src="https://avatars.githubusercontent.com/u/87045821?v=4"
-width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/marlonpedro"><img src="https://avatars.githubusercontent.com/u/88408608?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/mblithium"><img src="https://avatars.githubusercontent.com/u/6350505?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/mateusrovedaa"><img src="https://avatars.githubusercontent.com/u/22747307?v=4" width="100px"><br><b><sub></sub></b></th>
-<th><a href="https://github.com/raisaSampaio"><img src="https://avatars.githubusercontent.com/u/105328695?v=4" width="100px"><br><b><sub></sub></b></th>
+    <th><a href="https://github.com/aldair-meneses"><img src="https://avatars.githubusercontent.com/u/81881279?v=4" width="100px"><br><b><sub></sub></b></th>
+    <th><a href="https://github.com/edpittol"><img src="https://avatars.githubusercontent.com/u/352790?v=4" width="100px"><br><b><sub></sub></b></th>
+    <th><a href="https://github.com/JoaoPedro-Sampaio"><img src="https://avatars.githubusercontent.com/u/87131266?v=4" width="100px"><br><b><sub></sub></b></th>
+    <th><a href="https://github.com/marcosvile"><img src="https://avatars.githubusercontent.com/u/87045821?v=4" width="100px"><br><b><sub></sub></b></th>
 </tr>
 <tr align="center">
-<td><a href="https://github.com/aldair-meneses"><b>Aldair Meneses</b></td>
-<td><a href="https://github.com/edpittol"><b>Eduardo Pittol</b></td>
-<td><a href="https://github.com/JoaoPedro-Sampaio"><b>João Pedro</b></td>
-<td><a href="https://github.com/marcosvile"><b>Marcos Vilela</b></td>
-<td><a href="https://github.com/marlonpedro"><b>Marlon Pedro</b></td>
-<td><a href="https://github.com/mblithium"><b>Mateus Bastos</b></td>
-<td><a href="https://github.com/mateusrovedaa"><b>Mateus Roveda</b></td>
-<td><a href="https://github.com/raisaSampaio"><b>Raisa Sampaio</b></td>
+    <td><a href="https://github.com/aldair-meneses"><b>Aldair Meneses</b></td>
+    <td><a href="https://github.com/edpittol"><b>Eduardo Pittol</b></td>
+    <td><a href="https://github.com/JoaoPedro-Sampaio"><b>João Pedro</b></td>
+    <td><a href="https://github.com/marcosvile"><b>Marcos Vilela</b></td>
+<tr>
+    <th><a href="https://github.com/marlonpedro"><img src="https://avatars.githubusercontent.com/u/88408608?v=4" width="100px"><br><b><sub></sub></b></th>
+    <th><a href="https://github.com/mblithium"><img src="https://avatars.githubusercontent.com/u/6350505?v=4" width="100px"><br><b><sub></sub></b></th>
+    <th><a href="https://github.com/mateusrovedaa"><img src="https://avatars.githubusercontent.com/u/22747307?v=4" width="100px"><br><b><sub></sub></b></th>
+    <th><a href="https://github.com/raisaSampaio"><img src="https://avatars.githubusercontent.com/u/105328695?v=4" width="100px"><br><b><sub></sub></b></th>
+</tr>
+<tr align="center">
+    <td><a href="https://github.com/marlonpedro"><b>Marlon Pedro</b></td>
+    <td><a href="https://github.com/mblithium"><b>Mateus Bastos</b></td>
+    <td><a href="https://github.com/mateusrovedaa"><b>Mateus Roveda</b></td>
+    <td><a href="https://github.com/raisaSampaio"><b>Raisa Sampaio</b></td>
 </tr>
 </table>
-    
+
 
 ## FAQ
 
